@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I am training myself to be able to be a developer
-- 🌱 I’m currently learning HTML, CSS and javaScript
+- 🌱 I’m currently learning HTML, CSS and javaScript, ReactJs, TypeScript, NodeJs
 - 😄 I'm a Keyboard addict
 
  ---
